@@ -1,0 +1,3 @@
+<launch>
+  <node name="my_node" pkg="my_ros_package" type="my_node" output="screen" />
+</launch>
